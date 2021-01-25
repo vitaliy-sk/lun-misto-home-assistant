@@ -1,6 +1,6 @@
 ### Basic Home Assistant integration with ЛУН Місто
 
-![Example](https://github.com/github/vitaliy-sk/lun-misto-home-assistant/blob/assets/screen.png)
+![Example](https://raw.githubusercontent.com/vitaliy-sk/lun-misto-home-assistant/master/screen.png)
 
 ```yml
 sensor:
